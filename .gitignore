@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.slprj/
+
+# MATLAB generated files
+codegen/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local datasets / hardware logs
+*.mat
+*.csv
+*.xlsx
+
+# Local hardware interface / secrets
+local/
